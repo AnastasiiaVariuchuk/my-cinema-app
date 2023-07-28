@@ -75,6 +75,9 @@ The application is built using the following technologies:
     - Security 5.6.10
 
 ## How to Run and Test
+![Screenshot](assets/Schema_Cinema.png)
+
+## How to Run and Test
 
 1. Clone the repository from GitHub
 2. Create an empty database
@@ -90,10 +93,10 @@ The application is built using the following technologies:
 If you have any questions or suggestions, please feel free to contact me via [My LinkedIn](https://www.linkedin.com/in/anastasiia-variichuk/). I am open to new opportunities as a Java Developer.
 
 
-![Screenshot](img1.png)
+![Screenshot](assets/img1.png)
 
 
-![Screenshot](img2.png)
+![Screenshot](assets/img2.png)
 
 
-![Screenshot](img3.png)
+![Screenshot](assets/img3.png)
