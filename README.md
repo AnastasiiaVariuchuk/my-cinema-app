@@ -75,6 +75,7 @@ The application is built using the following technologies:
     - Security 5.6.10
 
 ## How to Run and Test
+
 ![Screenshot](assets/Schema_Cinema.png)
 
 ## How to Run and Test
