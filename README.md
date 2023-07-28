@@ -74,7 +74,7 @@ The application is built using the following technologies:
     - Web Mvc 5.3.20
     - Security 5.6.10
 
-## How to Run and Test
+## DB Schema
 
 ![Screenshot](assets/Schema_Cinema.png)
 
