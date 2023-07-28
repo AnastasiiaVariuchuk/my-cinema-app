@@ -88,6 +88,8 @@ The application is built using the following technologies:
 ## Contacts
 
 If you have any questions or suggestions, please feel free to contact me via [My LinkedIn](https://www.linkedin.com/in/anastasiia-variichuk/). I am open to new opportunities as a Java Developer.
+
+
 ![Screenshot](img1.png)
 ![Screenshot](img2.png)
 ![Screenshot](img3.png)
